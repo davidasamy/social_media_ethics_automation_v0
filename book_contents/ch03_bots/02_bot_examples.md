@@ -28,8 +28,8 @@ After the Star Wars: Last Jedi was released, there was a significant online back
 > [https://www.indiewire.com/2018/10/star-wars-last-jedi-backlash-study-russian-trolls-rian-johnson-1202008645/](https://www.indiewire.com/2018/10/star-wars-last-jedi-backlash-study-russian-trolls-rian-johnson-1202008645/)
 
 ## Corrupted bots
-As a final example, we wanted to tell you about Microsoft Tay a bot that got corrupted.
+As a final example, we wanted to tell you about Microsoft Tay, a bot that got corrupted.
 
-In 2016, Microsft launched a twitter bot that was intended to learn to speak from other twitter users and have conversations. Twitter users quickly started tweeting racist comments at Tay, which Tay learned from and started tweeting out within one day.
+In 2016, Microsoft launched a twitter bot that was intended to learn to speak from other twitter users and have conversations. Twitter users quickly started tweeting racist comments at Tay, which Tay learned from and started tweeting out within one day.
 
 Read more about what went wrong from Vice [How to Make a Bot That Isn't Racist](https://www.vice.com/en_us/article/mg7g3y/how-to-make-a-not-racist-bot)
